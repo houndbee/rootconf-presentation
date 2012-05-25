@@ -62,9 +62,7 @@
 
 ---
 
-#Get in Touch
-
----
+##Get in Touch
 
 * kaustubh@houndbee.com
 * @houndbee
