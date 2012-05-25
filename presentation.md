@@ -64,8 +64,6 @@
 
 ##Contact Me
 
-*kaustubh@houndbee.com
-
-*@houndbee
-
-*http://github.com/houndbee
+* kaustubh@houndbee.com
+* @houndbee
+* http://github.com/houndbee
