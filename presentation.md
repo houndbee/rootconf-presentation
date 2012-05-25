@@ -62,10 +62,6 @@
 
 ---
 
-*Zero-Touch Drupal Deployment - http://mig5.net/whitepapers
-
----
-
 ##Contact Me
 
 *kaustubh@houndbee.com
